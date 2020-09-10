@@ -20,7 +20,7 @@
         display: none;
     }
 }
-.open {
+.Open {
     transform: translateX(0);
 }
 
@@ -30,4 +30,5 @@
 
 .Logo{
     height: 11%;
+    margin-bottom: 30px;
 }
