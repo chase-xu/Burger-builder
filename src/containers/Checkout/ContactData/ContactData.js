@@ -88,7 +88,7 @@ class ContactData extends Component {
                                 {value: 'fastest', displayValue: 'Fastest'}],
                     placeholder: 'Deliver Method'
                 },
-                value: '',
+                value: 'normal',
                 valid: true,
                 validation: {
                 },
